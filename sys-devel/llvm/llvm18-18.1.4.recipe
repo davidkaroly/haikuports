@@ -32,7 +32,7 @@ COPYRIGHT="2003-2024 University of Illinois at Urbana-Champaign"
 LICENSE="Apache v2 with LLVM Exception"
 REVISION="1"
 SOURCE_URI="https://github.com/llvm/llvm-project/releases/download/llvmorg-$portVersion/llvm-project-$portVersion.src.tar.xz"
-CHECKSUM_SHA256="2929f62d69dec0379e529eb632c40e15191e36f3bd58c2cb2df0413a0dc48651"
+CHECKSUM_SHA256="2c01b2fbb06819a12a92056a7fd4edcdc385837942b5e5260b9c2c0baff5116b"
 SOURCE_DIR="llvm-project-$portVersion.src"
 PATCHES="llvm18-$portVersion.patchset"
 
